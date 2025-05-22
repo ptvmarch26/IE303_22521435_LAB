@@ -1,3 +1,8 @@
+package org.example;
+
+import org.example.Product;
+import org.example.RoundedPanel;
+
 import javax.swing.*;
 import java.awt.*;
 import java.net.URL;

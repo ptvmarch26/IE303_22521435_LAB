@@ -1,3 +1,7 @@
+package org.example;
+
+import org.example.Product;
+
 import javax.swing.*;
 import java.awt.*;
 import java.net.URL;
