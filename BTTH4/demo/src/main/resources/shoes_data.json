@@ -1,0 +1,44 @@
+[
+  {
+    "name": "4DFWD PULSE SHOES",
+    "price": 160.000,
+    "brand": "Adidas",
+    "description": "This product is excluded from all promotional discounts and offers",
+    "imagePath": "https://res.cloudinary.com/dkww5mgnf/image/upload/v1750052581/img1_swamhx.png"
+  },
+  {
+    "name": "FORUM MID SHOES",
+    "price": 100.00,
+    "brand": "Adidas",
+    "description": "This product is excluded from all promotional discounts and offers",
+    "imagePath": "https://res.cloudinary.com/dkww5mgnf/image/upload/v1750052580/img2_sirphp.png"
+  },
+  {
+    "name": "SUPERNOVA SHOES",
+    "price": 150.00,
+    "brand": "Adidas",
+    "description": "NMD City Stock 2",
+    "imagePath": "https://res.cloudinary.com/dkww5mgnf/image/upload/v1750052580/img3_h9ghbw.png"
+  },
+  {
+    "name": "BEACH SEASON SHOES",
+    "price": 160.00,
+    "brand": "Adidas",
+    "description": "Summer collection",
+    "imagePath": "https://res.cloudinary.com/dkww5mgnf/image/upload/v1750052580/img4_vgvqbd.png"
+  },
+  {
+    "name": "BLACK THADER",
+    "price": 120.00,
+    "brand": "Adidas",
+    "description": "Speed Run",
+    "imagePath": "https://res.cloudinary.com/dkww5mgnf/image/upload/v1750052580/img5_kwppzt.png"
+  },
+  {
+    "name": "FLOWAIR MID SHOES",
+    "price": 160.00,
+    "brand": "Adidas",
+    "description": "Speed Run",
+    "imagePath": "https://res.cloudinary.com/dkww5mgnf/image/upload/v1750052580/img6_rkmgqu.png"
+  }
+]

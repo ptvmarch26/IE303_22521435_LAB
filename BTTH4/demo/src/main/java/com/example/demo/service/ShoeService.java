@@ -15,4 +15,9 @@ public class ShoeService {
     public List<Shoe> getAllShoes() {
         return shoeRepository.findAll();
     }
+
+    public Shoe getDetailsShoe(String shoeId) {
+        return shoeRepository.findById(shoeId)
+                .orElseThrow(() -> new RuntimeException("Sản phẩm không tồn tại"));
+    }
 }
